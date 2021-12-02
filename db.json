@@ -9,7 +9,9 @@
         "address": "123 Main St",
         "city": "San Jose",
         "state": "CA",
-        "hourly-rate": "10"
+        "hourly-rate": "10",
+        "image-source": "https://s3-us-west-1.amazonaws.com/sportz-images/basketball-court.jpg",
+        "url": "http://www.sjsu.edu/basketball-court"
       },
       {
         "school-name": "East Bay College",
@@ -17,7 +19,9 @@
         "address": "123 Main St",
         "city": "San Jose",
         "state": "CA",
-        "hourly-rate": "45"
+        "hourly-rate": "45",
+        "image-source": "https://s3-us-west-1.amazonaws.com/sportz-images/basketball-court.jpg",
+        "url": "http://www.eastbay.edu/basketball-court"
       }
     ]
   }
