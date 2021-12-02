@@ -1,0 +1,24 @@
+{
+  "search-results": {
+    "searched-facility": "basketball courts",
+    "city": "San Jose",
+    "returned-facilities": [
+      {
+        "school-name": "San Jose State University",
+        "facility-name": "Basketball Court",
+        "address": "123 Main St",
+        "city": "San Jose",
+        "state": "CA",
+        "hourly-rate": "10"
+      },
+      {
+        "school-name": "East Bay College",
+        "facility-name": "Outdoor Basketball Court",
+        "address": "123 Main St",
+        "city": "San Jose",
+        "state": "CA",
+        "hourly-rate": "45"
+      }
+    ]
+  }
+}
